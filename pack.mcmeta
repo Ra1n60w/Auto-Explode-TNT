@@ -1,0 +1,35 @@
+{
+        "pack": {
+                "pack_format": 18,
+                "description": [
+                        {
+                                "text": "Automatically lit ",
+                                "color": "green"
+                        },
+                        {
+                                "text": "T",
+                                "color": "red"
+                        },
+                        {
+                                "text": "N",
+                                "color": "white"
+                        },
+                        {
+                                "text": "T",
+                                "color": "red"
+                        },
+                        {
+                                "text": "s you placed. Made by ",
+                                "color": "green"
+                        },
+                        {
+                                "text": "Ra1n60w",
+                                "color": "aqua"
+                        },
+                        {
+                                "text": ".",
+                                "color": "green"
+                        }
+                ]
+        }
+}

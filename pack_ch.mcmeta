@@ -1,0 +1,35 @@
+{
+        "pack": {
+                "pack_format": 18,
+                "description": [
+                        {
+                                "text": "自动点燃你放置的",
+                                "color": "green"
+                        },
+                        {
+                                "text": "T",
+                                "color": "red"
+                        },
+                        {
+                                "text": "N",
+                                "color": "white"
+                        },
+                        {
+                                "text": "T",
+                                "color": "red"
+                        },
+                        {
+                                "text": "。\nMade by ",
+                                "color": "green"
+                        },
+                        {
+                                "text": "Ra1n60w",
+                                "color": "aqua"
+                        },
+                        {
+                                "text": ".",
+                                "color": "green"
+                        }
+                ]
+        }
+}
