@@ -1,4 +1,4 @@
-This is a datapack for Minecraft and it works in Minecraft 1.20.x (After 23w18a).
+This is a datapack for Minecraft.
 
 It can make TNTs you places lit automatically.
 
