@@ -1,7 +1,10 @@
-This is a datapack for Minecraft.
 
-It can make TNTs you places lit automatically.
+This is a *light* datapack for Minecraft.
 
-You can download the ZIP file in Releases and try it.
+It can make TNTs you places lit automatically, similar to those in minigames like Bedwars.
+
+**It is fully compatible with any other packs!!!**
+
+You can download the ZIP files in Releases and try it.
 
 Total size of the file: 4KB
